@@ -1,0 +1,12 @@
+.hover-effect:hover {
+  background-color: grey;
+  cursor: pointer;
+}
+
+.hover-effect-cursor:hover {
+  cursor: pointer;
+}
+
+.hover:hover {
+  cursor: pointer;
+}
